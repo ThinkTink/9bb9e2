@@ -6,7 +6,6 @@ For this project, you are provided a starting code for a back end JSON API and a
 
 We will use [this rubric](https://drive.google.com/file/d/1Lfn6JnanBhuSjMDQaIdIBk1_QK7i9mNU/view) to evaluate your submission. Please note that if your submission does not attempt to complete all of the requirements, or does not pass our plagiarism screening, we will be unable to provide feedback on it. Please contact hello@hatchways.io if you have any questions or concerns.
 
----
 
 ## Introduction to this Application
 
